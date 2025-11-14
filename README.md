@@ -38,5 +38,29 @@ The dashboard highlights trends in stock prices, trading volume, and daily retur
 ## **📸 Dashboard Preview**
 <img width="1246" height="674" alt="Screenshot 2025-11-14 172947" src="https://github.com/user-attachments/assets/e0dac19a-ca28-4ae2-8366-a85863d45c22" />
 
+---
+
+## **🛠 Tools Used**
+- **Power BI Desktop**  
+- **Microsoft Excel** (data cleaning)  
+- **GitHub** (version control)
+
+---
+
+## **🚀 How to Use**
+1. Download the `.pbix` file from this repository  
+2. Open it in **Power BI Desktop**  
+3. Explore visuals, slicers, and KPIs
+
+---
+
+
+---
+
+## **👩‍💻 Author**
+**Pooja Choudhary**  
+Aspiring Data Analyst skilled in **Power BI, Excel, SQL, Python**, and dashboard development.
+
+
 
 
