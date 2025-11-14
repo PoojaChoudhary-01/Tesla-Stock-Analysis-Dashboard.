@@ -103,26 +103,3 @@ Slicer & Filter Design
 Interactive Visualization
 
 Professional Dashboard Layout
-
-📷 Dashboard Preview
-
-(Add your screenshot here)
-
-![Uploading Screenshot 2025-11-14 172947.png…]()
-
-
-🚀 How to Use
-
-Download the .pbix file from this repository.
-
-Open it in Power BI Desktop.
-
-Interact with the slicers to explore Tesla stock trends.
-
-View insights across different years, quarters, and months.
-
-👩‍💻 Author
-
-Pooja Choudhary
-Data Analyst & Power BI Developer
-Passionate about data visualization, dashboard building, and business insights
