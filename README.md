@@ -1,4 +1,5 @@
 📊 Tesla Stock Analysis Dashboard (Power BI)
+
 📌 Project Overview
 
 This project analyzes the historical stock performance of Tesla (TSLA) using Power BI.
