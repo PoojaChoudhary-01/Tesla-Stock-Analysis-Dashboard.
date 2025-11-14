@@ -1,15 +1,16 @@
-📊 Tesla Stock Analysis Dashboard (Power BI)
+📊 TESLA STOCK ANALYSIS DASHBOARD (POWER BI)
+📝 PROJECT OVERVIEW
 
-📌 Project Overview
+This project presents a complete Power BI dashboard analyzing historical Tesla (TSLA) stock performance.
+It provides insights into price trends, trading volume, and daily changes through interactive visuals, slicers, and KPIs.
 
-This project analyzes the historical stock performance of Tesla (TSLA) using Power BI.
-The dashboard provides interactive insights into price movements, trading volume, volatility, and daily returns across different time periods.
+The purpose of this project is to demonstrate strong skills in data cleaning, DAX, time-series analysis, dashboard design, and storytelling with data.
 
-The goal of this project is to demonstrate strong skills in data cleaning, time-series analysis, KPI creation, and dashboard design.
+📁 DATASET INFORMATION
 
-📁 Dataset Information
+The dataset contains the following columns:
 
-The dataset contains historical stock market data including:
+Date
 
 Open Price
 
@@ -23,21 +24,12 @@ Adjusted Close
 
 Volume
 
-Daily Return
+Daily Return (derived column)
 
-Date (Year, Quarter, Month, Day)
+Data was cleaned and transformed inside Power BI.
 
-Data was cleaned, transformed, and modeled inside Power BI before visualization.
-
-🎯 Key Insights from the Dashboard
-
-✔ Tesla's trading volume shows clear yearly trends, with certain months consistently higher.
-✔ Significant fluctuations were observed in Max/Min Open, Close, High, and Low prices.
-✔ Daily Return shows noticeable variation across years.
-✔ The stock experienced major volume changes especially in 2020–2021, indicating strong market activity.
-
-📌 Dashboard Features
-🔸 Interactive Slicers
+📌 DASHBOARD FEATURES
+🔹 Filters / Slicers
 
 Year
 
@@ -47,7 +39,7 @@ Month
 
 Day
 
-🔸 KPI Cards
+🔹 KPI Cards
 
 Max Open
 
@@ -65,42 +57,51 @@ Min High
 
 Min Low
 
-🔸 Visuals Included
+🔹 Visualizations
 
 Volume by Month
 
 Volume by Year
 
-Count of Daily Return by Year
-
-Gauge chart for Volume
+Daily Return Count by Year
 
 Line chart for trend analysis
 
-Clustered bar charts for yearly comparison
+Bar and column charts for comparison
 
-🛠️ Tools & Technologies
+Gauge chart for volume
 
-Power BI – Dashboard creation
+🔍 KEY INSIGHTS
 
-DAX – Measures & calculations
+✔ Tesla trading volume peaked during several high-activity years (especially 2020–2021).
+✔ Price fluctuations show clear volatility across months and quarters.
+✔ Daily return patterns reveal strong movement during major market events.
+✔ KPIs highlight the highest and lowest price points across the dataset.
 
-Excel – Initial data storage
+🛠️ TOOLS & TECHNOLOGIES USED
 
-Time-series analysis techniques
+Power BI Desktop
 
-💡 Skills Demonstrated
+DAX (Data Analysis Expressions)
 
-Data Cleaning & Transformation
+Excel
 
-Time-Series Stock Analysis
+Power Query
 
-KPI Creation
+Data Modeling Techniques
 
-Data Modeling
+💡 SKILLS DEMONSTRATED
 
-Slicer & Filter Design
+Time-series analysis
 
-Interactive Visualization
+Data cleaning & transformation
 
-Professional Dashboard Layout
+Building interactive dashboards
+
+KPI development
+
+Stock market data analysis
+
+Professional report design
+
+🖼️ DASHBOARD PREVI
